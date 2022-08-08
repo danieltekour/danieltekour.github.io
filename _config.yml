@@ -38,7 +38,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: My GitHub profile link:
         link: github.com/danieltekour
        
   - title: Experience # Title for the section
