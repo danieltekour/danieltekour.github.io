@@ -16,10 +16,7 @@ darkmode: false
 
 # Social links
 github_username:  danieltekour
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: tekourdaniel
-# flickr_username: jekyll
+facebook_username: tekourdaniel
 instagram_username: daniel_tekour
 linkedin_username: daniel-tekour-b1524a248
 
@@ -56,7 +53,8 @@ content:
         title:  SOŠ a SOU Kralupy
         caption: 2018 - 2022
         sub_title: IT
-        quote: >
+        quote: >During my time at high school I learned mostly about how computer networks works,
+        how to manage windows servers, Linux machines, basics of computer network theory, networking models and concepts etc.
           
 
 # Footer
