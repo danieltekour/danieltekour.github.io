@@ -39,7 +39,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: DALTECOR Company
+        title: DalTeCor.uk
         link: www.danieltekour.com
         # link_text: www.danieltekour.com
         sub_title: Dropshipper
